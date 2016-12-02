@@ -1,0 +1,13 @@
+Fabric==1.10.2
+paramiko==1.10.1
+parse
+pep8==1.7
+boto3==1.3.1
+PyYAML==3.11
+awacs==0.5.4
+awscli==1.10.67
+Sphinx
+
+# Install troposphere from head, so we get juicy new features whilst dev
+git+ssh://git@github.com/cloudtools/troposphere.git
+
